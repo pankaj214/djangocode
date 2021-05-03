@@ -25,7 +25,7 @@ SECRET_KEY = 'jnpjlax3@13)i(i@&1rdp+6x0kcpc56bnw%iv)m&tf7$e!rkb9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = [127.0.0.1,]
+ALLOWED_HOSTS = ['127.0.0.1','minicrud.herokuapp.com']
 
 
 # Application definition
